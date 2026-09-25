@@ -46,5 +46,11 @@ Recommended controls include physical inspection, vendor verification, GPS/devic
 ![Log billing KDE](Reports/Images/Day5_Log_Billing_KDE.png)
 ![Ghost equipment cumulative funds](Reports/Images/Nexlyra_Ghost_Equipment_Cumulative_Funds.png)
 
+# Power BI
+<img width="1196" height="772" alt="image" src="https://github.com/user-attachments/assets/16e4b946-1346-4c29-a008-a8bfc83ab3da" />
+<img width="1275" height="616" alt="image" src="https://github.com/user-attachments/assets/1a911830-5a8a-475f-90f7-3565fc332bbf" />
+<img width="1275" height="746" alt="image" src="https://github.com/user-attachments/assets/e14a322d-48c8-45e1-8f24-65517a302a77" />
+<img width="1080" height="772" alt="image" src="https://github.com/user-attachments/assets/4f8d8387-9e86-4888-8755-93f0146fc2ad" />
+
 ## Repository contents
 Telemetry data, cleaned datasets, SQL audit logic, Python analysis scripts, Power BI dashboards, reports, and visual evidence.
