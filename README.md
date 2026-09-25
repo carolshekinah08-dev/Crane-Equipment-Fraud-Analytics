@@ -38,5 +38,13 @@ RPM and fuel fields for the affected Tower Crane subset had effectively zero var
 ## Controls and limitations
 Recommended controls include physical inspection, vendor verification, GPS/device provenance validation, invoice reconciliation, and preservation of raw telemetry and audit outputs. Static GPS can have legitimate explanations; confirmed conclusions require physical inspection, source-system validation, contracts, invoices, payment evidence, and vendor responses.
 
+## Charts and dashboard evidence
+
+### Fuel and billing evidence
+![Cartel expected versus actual fuel](Reports/Images/Day5_Cartel_Expected_vs_Actual_Fuel.png)
+![Fuel KDE](Reports/Images/Day5_Fuel_KDE.png)
+![Log billing KDE](Reports/Images/Day5_Log_Billing_KDE.png)
+![Ghost equipment cumulative funds](Reports/Images/Nexlyra_Ghost_Equipment_Cumulative_Funds.png)
+
 ## Repository contents
 Telemetry data, cleaned datasets, SQL audit logic, Python analysis scripts, Power BI dashboards, reports, and visual evidence.
